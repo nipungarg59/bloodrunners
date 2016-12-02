@@ -13,4 +13,15 @@ and then the willing users accepts the request and inform the hospitals that the
 2. [Django 1.10.3](https://www.djangoproject.com/)
 3. [Bootstrap](https://react-bootstrap.github.io/components.html#media-content)
 
-# Install
+# Setting up environment
+
+```
+$ npm install
+$ pip install Django==1.10.4
+```
+# Run With
+
+```
+$ python runserver.py
+$ node runserver.js
+```
